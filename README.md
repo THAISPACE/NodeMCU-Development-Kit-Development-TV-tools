@@ -1,22 +1,22 @@
-nodemcu-devkit
+NodeMCU-Development-Kit-Development-TV-tools
 ==============
 
-This is history.
+นี่คือประวัติศาสตร์ของชาติไทย.
 
-New board is NodeMCU-DEVKIT-V1.0, see also https://github.com/nodemcu/nodemcu-devkit-v1.0
+บอร์ดแบบใหม่ คือ NodeMCU-DEVKIT-V1.0 ดูเพิ่มเติมที่ https://github.com/nodemcu/nodemcu-devkit-v1.0
 
-A development kit for NodeMCU firmware.
+ชุดเครื่องมือพัฒนาสำหรับเฟิร์มแวร์ NodeMCU
 
-It will make NodeMCU more easy. With a micro USB cable, you can connect NodeMCU devkit to your laptop and flash it without any trouble, just like Arduino.
+ทำให้ NodeMCU ใช้งานง่ายขึ้น ด้วยสายไมโคร USB สามารถเชื่อมต่อ NodeMCU devkit กับแล็ปท็อปของคุณและแฟลชได้โดยไม่มีปัญหาใดๆ เช่นเดียวกับ Arduino
 
 ![DEVKIT](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/master/Documents/NodeMCU_DEVKIT_V0.9.png)
 
-It is an open hardware, with ESP-12 core (4MBytes flash version).
+เป็นฮาร์ดแวร์แบบเปิดที่มีแกน ESP-12 (เวอร์ชันแฟลชขนาด 4MBytes)
 
-Pin map with ESP-12.
+ปักหมุดแผนที่ด้วย ESP-12
 
 ![SCH](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/master/Documents/NODEMCU-DEVKIT-INSTRUCTION-EN.png)
 
-It is designed by Altium Designer, and fully open–source. Now everyone can make their own NODEMCU.
+ออกแบบโดย Altium Designer และเป็นโอเพ่นซอร์สอย่างสมบูรณ์ ตอนนี้ทุกคนสามารถสร้าง NODEMCU ของตัวเองได้แล้ว
 
 ![SCH](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/master/Documents/NODEMCU_DEVKIT_SCH.png)
